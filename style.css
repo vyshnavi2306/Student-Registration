@@ -1,0 +1,18 @@
+body{font-family: 'Calibri', 'Times New Roman', 'Verdana';
+     background-color: beige;}
+h1, h2, h3{text-align: center;}
+.degree{text-align: center;}
+.container{display: flex;
+           padding: 10px;
+        }
+.items{background-color: #94B4C1;
+       text-align: center;
+       padding: 10px;
+       border: 10px solid beige;
+       border-radius: 25px;
+       flex: 1;
+    }
+span{color: darkorchid;}
+img{width: 25%;
+    height: 20%;}
+.picture{text-align: center;}
